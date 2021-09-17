@@ -1,0 +1,16 @@
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.exe
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.deps.json
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.runtimeconfig.json
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.runtimeconfig.dev.json
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.dll
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\ref\LF8test.dll
+C:\Users\Vonsien\source\repos\LF8test\bin\Debug\net5.0\LF8test.pdb
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.csproj.AssemblyReference.cache
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.AssemblyInfoInputs.cache
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.AssemblyInfo.cs
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.csproj.CoreCompileInputs.cache
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.dll
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\ref\LF8test.dll
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.pdb
+C:\Users\Vonsien\source\repos\LF8test\obj\Debug\net5.0\LF8test.genruntimeconfig.cache
